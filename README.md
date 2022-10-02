@@ -15,6 +15,7 @@ I am a 2nd year BCA from Noida. I have been learning web development for over a 
 src="https://img.shields.io/twitter/follow/Itsaftabalam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Aftabalam162" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Aftabalam162?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![](https://hit.yhype.me/github/profile?user_id=73171400)
 
 ### Skills
 
