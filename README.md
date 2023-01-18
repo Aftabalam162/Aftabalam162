@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [aftabalam.me](aftabalam.me)
-
 - 📝 I regularly write articles on [https://aftabalam.hashnode.dev/](https://aftabalam.hashnode.dev/)
 
 - 📫 How to reach me **Itsaftablam37@gmail.com**
