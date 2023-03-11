@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Frontend Masters](https://github.com/Aftabalam162/frontend-masters)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python and Django**
 
 - 📝 I regularly write articles on [https://aftabalam.hashnode.dev/](https://aftabalam.hashnode.dev/)
 
