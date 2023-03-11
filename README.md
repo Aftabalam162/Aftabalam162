@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aftab Alam</h1>
-<h3 align="center">An aspiring Javascript Developer ✨</h3>
+<h3 align="center">Web Developer ✨</h3>
 
 
 - 🔭 I’m currently working on [Frontend Masters](https://github.com/Aftabalam162/frontend-masters)
