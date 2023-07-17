@@ -2,8 +2,6 @@
 <h3 align="center">Web Developer ✨</h3>
 
 
-- 🔭 I’m currently working on [Frontend Masters](https://github.com/Aftabalam162/frontend-masters)
-
 - 🌱 I’m currently learning **React and NodeJS**
 
 - 📝 I regularly write articles on [https://aftabalam.hashnode.dev/](https://aftabalam.hashnode.dev/)
