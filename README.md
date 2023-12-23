@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer ✨</h3>
 
 
-- 🌱 I’m currently learning **Core PHP**
+- 🌱 I’m currently learning **React Development**
 
 - 📝 I regularly write articles on [https://aftabalam.hashnode.dev/](https://aftabalam.hashnode.dev/)
 
