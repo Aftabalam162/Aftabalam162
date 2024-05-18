@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aftab Alam</h1>
-<h3 align="center">Web Developer ✨</h3>
-
-
-- 🌱 I’m currently learning **React and NodeJS Development**
-
-- 📝 I regularly write articles on [https://aftabalam.hashnode.dev/](https://aftabalam.hashnode.dev/)
-
 - 📫 How to reach me **Itsaftablam37@gmail.com**
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aftabalam162&label=Profile%20views&color=0e75b6&style=flat" alt="aftabalam162" /></p>
