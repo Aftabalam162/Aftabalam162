@@ -1,6 +1,12 @@
-- 📫 How to reach me **Itsaftablam37@gmail.com**
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=aftabalam162&label=Profile%20views&color=0e75b6&style=flat" alt="aftabalam162" /></p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/AftabCodes?style=social)](https://twitter.com/AftabCodes) <p align="left"><img src="https://komarev.com/ghpvc/?username=aftabalam162&label=Profile%20views&color=0e75b6&style=flat" alt="aftabalam162" /></p> 
+
+- 📫 How to reach me **Itsaftablam37@gmail.com** 
+
+
+
+
 
 <p align="left">  </p>
 
